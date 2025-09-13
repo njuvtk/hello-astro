@@ -6,21 +6,21 @@ export default {
   // 网站副标题
   Subtitle: 'welcome to my blog',
   // 网站描述
-  Description: '小破站, 记录生活和学习中的点滴',
+  Description: '小破站, 记录折腾日常',
   // 网站作者
   Author: 'njuv',
   // 作者头像
   Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2745592207&s=640',
   // 网站座右铭
-  Motto: '跌跌撞撞，终会归航',
+  Motto: '跌跌撞撞，终会归航。',
   // Cover 网站缩略图
   Cover: '',
   // 网站侧边栏公告 (不填写即不开启)
-  Tips: '<p>欢迎光临我的博客 🎉</p><p>这里会分享我的日常和学习中的收集、整理及总结，希望能对你有所帮助:) 💖</p>',
+  Tips: '<p>欢迎光临我的博客 🎉</p><p>这里会分享我的折腾记录 :) 💖</p>',
   // 首页打字机文案列表
   TypeWriteList: [
-    '',
-    "",
+    '跌跌撞撞，终会归航。',
+    "小破站, 记录折腾日常",
   ],
   // 网站创建时间
   CreateTime: '2025-09-01',
