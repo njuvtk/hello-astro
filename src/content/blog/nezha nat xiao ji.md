@@ -7,7 +7,7 @@ tags:
 id: nezha-nat-xiao-ji
 date: 2025-08-13
 updated: 2025-08-13
-cover: ""
+cover: "https://img.njuv.pp.ua/file/dyS2q3T6.jpg"
 recommend: false # 是否推荐文章
 top: false # 是否置顶文章
 hide: false # 是否隐藏文章

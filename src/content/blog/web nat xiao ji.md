@@ -7,7 +7,7 @@ tags:
 id: web-nat-xiao-ji
 date: 2025-06-24
 updated: 2025-06-24
-cover: ""
+cover: "https://img.njuv.pp.ua/file/1w2JYAt1.jpg"
 recommend: false # 是否推荐文章
 top: false # 是否置顶文章
 hide: false # 是否隐藏文章

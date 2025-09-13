@@ -26,13 +26,13 @@ export default {
   CreateTime: '2025-09-01',
   // 顶部 Banner 配置
   HomeBanner: {
-    enable: false,
+    enable: true,
     // 首页高度
     HomeHeight: '38.88rem',
     // 其他页面高度
     PageHeight: '28.88rem',
     // 背景
-    background: "url('/assets/images/bg.webp') no-repeat center 60%/cover",
+    background: "url('https://img.njuv.pp.ua/file/sqB0Qdc3.jpg') no-repeat center 60%/cover",
   },
   // 博客主题配置
   Theme: {
@@ -79,8 +79,8 @@ export default {
   },
   // DNS预解析地址
   DNSOptimization: [
-    'https://cdn.jsdelivr.net',
-    'https://njuvtk.pages.dev/'
+    'https://img.njuv.pp.ua',
+    'https://njuvtk.pages.dev'
   ],
   // 博客音乐组件解析接口
   vhMusicApi: '',
