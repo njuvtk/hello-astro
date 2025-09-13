@@ -27,9 +27,9 @@ jobs:
         run: pnpm run build
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+        uses: JamesIves/github-pages-deploy-action@v4.7.3
         with:
-          github_token: ${{ secrets.ACCESS_TOKEN }} # 使用自定义的 ACCESS_TOKEN 以确保有足够权限
-          publish_dir: ./dist
-          repository_name: njuvtk/njuvtk.github.io # 如需推送到独立仓库请取消注释并修改用户名
-          publish_branch: main # 如需推送到 main 分支请取消注释
+          branch: main # 推送到 main 分支
+          folder: dist # 推送 dist 目录
+          repository-name: njuvtk/njuvtk.github.io # 目标仓库
+          token: ${{ secrets.ACCESS_TOKEN }} # 使用自定义的 ACCESS_TOKEN
