@@ -10,7 +10,7 @@ export default {
   // 网站作者
   Author: 'njuv',
   // 作者头像
-  Avatar: '',
+  Avatar: '/assets/images/avatar.webp',
   // 网站座右铭
   Motto: '跌跌撞撞，终会归航',
   // Cover 网站缩略图
@@ -32,7 +32,7 @@ export default {
     // 其他页面高度
     PageHeight: '28.88rem',
     // 背景
-    background: "url('') no-repeat center 60%/cover",
+    background: "url('/assets/images/bg.webp') no-repeat center 60%/cover",
   },
   // 博客主题配置
   Theme: {
@@ -79,9 +79,8 @@ export default {
   },
   // DNS预解析地址
   DNSOptimization: [
-    'https://i0.wp.com',
-    'https://registry.npmmirror.com',
-    'https://pagead2.googlesyndication.com'
+    'https://cdn.jsdelivr.net',
+    'https://njuvtk.pages.dev/'
   ],
   // 博客音乐组件解析接口
   vhMusicApi: '',
