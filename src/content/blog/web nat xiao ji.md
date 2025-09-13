@@ -171,8 +171,8 @@ curl -fsSL https://raw.githubusercontent.com/njuvtk/vpstool/main/web.sh | bash
 
 你部署成功后，将能通过：
 
-```
-https://www.njuv.pp.ua
+```url
+https://blog.example.com
 ```
 
 访问你托管的网页（由 Cloudflare 免费加速和代理）。
