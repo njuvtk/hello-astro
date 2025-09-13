@@ -57,6 +57,7 @@ export default {
     { text: '朋友圈', link: '/friends', icon: 'Nav_rss' },
     { text: '动态', link: '/talking', icon: 'Nav_talking' },
     { text: '留言', link: '/message', icon: 'Nav_message' },
+    { text: '音乐', link: '/music', icon: 'Nav_music' },
     { text: '关于', link: '/about', icon: 'Nav_about' },
     // { text: 'API', link: 'https://api.vvhan.com/', target: true, icon: 'Nav_link' },
   ],
