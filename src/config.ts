@@ -10,7 +10,7 @@ export default {
   // 网站作者
   Author: 'njuv',
   // 作者头像
-  Avatar: '/assets/images/avatar.webp',
+  Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2745592207&s=640',
   // 网站座右铭
   Motto: '跌跌撞撞，终会归航',
   // Cover 网站缩略图
@@ -79,8 +79,8 @@ export default {
   },
   // DNS预解析地址
   DNSOptimization: [
-    'https://img.njuv.pp.ua',
-    'https://njuvtk.pages.dev'
+    'https://njuv.pp.ua',
+    'https://img.njuv.pp.ua'
   ],
   // 博客音乐组件解析接口
   vhMusicApi: '',
