@@ -84,7 +84,7 @@ export default {
     'https://img.njuv.pp.ua'
   ],
   // 博客音乐组件解析接口
-  vhMusicApi: '',
+  vhMusicApi: 'https://mi.njuv.pp.ua/api/song',
   // 评论组件（只允许同时开启一个）
   Comment: {
     // Twikoo 评论
