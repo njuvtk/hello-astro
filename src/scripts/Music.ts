@@ -20,7 +20,7 @@ export default async (MusicList: any[]) => {
         cover: song.album.blurPicUrl,
         lrc: audioData.lyric?.lyric || '', // 歌词
       }];
-      const ap = new APlayer({ container, audio, lrcType: 3 });
+      const ap = new APlayer({ container, audio, lrcType: 1 });
       MusicList.push(ap);
     }
   });
