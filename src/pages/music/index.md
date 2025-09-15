@@ -1,6 +1,6 @@
 ---
-title: "音乐播放器"
-h1: "音乐播放器"
+title: "音乐"
+h1: "音乐"
 desc: "享受美妙的音乐时光"
 layout: "@/layouts/PageLayout/PageLayout.astro"
 type: "music"
