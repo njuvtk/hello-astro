@@ -81,7 +81,11 @@ export default {
   // DNS预解析地址
   DNSOptimization: [
     'https://njuv.pp.ua',
-    'https://img.njuv.pp.ua'
+    'https://img.njuv.pp.ua',
+    'https://mi.njuv.pp.ua',
+    'https://q1.qlogo.cn',
+    'https://cdn.jsdelivr.net'
+
   ],
   // 博客音乐组件解析接口
   vhMusicApi: 'https://mi.njuv.pp.ua/api/song',
